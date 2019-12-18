@@ -5,9 +5,9 @@ home: http://lucene.apache.org/solr/
 keywords:
 - solr
 maintainers:
-- email: ian.thebridge@lucidworks.com
-  name: Ian Thebridge
-name: solr
+- email: giovanni.v@outdoornetwork.com
+  name: Giovanni Valentin
+name: odn-solr
 sources:
-- https://gitbox.apache.org/repos/asf?p=lucene-solr.git
+- https://github.com/GioValentin/solr-with-segmenter.git
 version: 2.0.4

@@ -18,7 +18,7 @@ terminationGracePeriodSeconds: 180
 
 # Solr image settings
 image:
-  repository: solr
+  repository: odn-solr
   tag: 8.2.0
   pullPolicy: Always
 
